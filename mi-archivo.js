@@ -1,2 +1,2 @@
-console.log(‘hola mundo’); 
-console.log(‘Silvia Hernandez Ruiz)
+console.log('hola mundo'); 
+console.log('Silvia Hernandez Ruiz')
